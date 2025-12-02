@@ -15,15 +15,15 @@ It’s designed to help developers quickly spin up a modern web application, exp
 
 ---
 
-## 🚀 How to Run  
+## How to Run  
 
-## 🚀 Clone & Run
+## Clone & Run
 
 Follow these steps to get the project up and running on your local machine.
 
 ---
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 1. Copy the repository URL from GitHub:  
 2. Open your terminal (Git Bash, PowerShell, CMD, or VS Code Terminal).  
