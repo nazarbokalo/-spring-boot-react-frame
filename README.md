@@ -33,4 +33,13 @@ cd "C:\Users\YourName\Desktop"
 mkdir my-projects
 cd my-projects
 git clone https://github.com/nazarbokalo/-spring-boot-react-frame.git
+cd -spring-boot-react-frame
+
+Configure your database in properties
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/mydb
+spring.datasource.username=your_db_username
+spring.datasource.password=your_db_password
+spring.jpa.hibernate.ddl-auto=update
+
 
